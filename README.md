@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Software Developer | DevOps Enthusiast | Graphic Designer
 
-🚀 **CEO — Lazri Company**
+🚀 **CEO — Lazri Technologies Ltd**
 
 > *"Building technology that solves real-world problems."*
 
