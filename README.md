@@ -125,7 +125,7 @@ My principles are:
 ## 📫 Connect
 
 - **GitHub:** [kapingantony](https://github.com/kapingantony)
-- **LinkedIn:** Antony Kapinga
+- **LinkedIn:** [Antony Kapinga](https://www.linkedin.com/in/antony-kapinga-261a903a4/)
 - **Lazri Company:** [lazri.co.tz](https://www.lazri.co.tz)
 
 ---
